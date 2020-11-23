@@ -1,3 +1,3 @@
 # Visualizacion-de-Datos
 
-ver Wiki
+ver Wiki: https://github.com/SaturdaysAI-EquipoMorado/Visualizacion-de-Datos/wiki
